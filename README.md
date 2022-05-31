@@ -1,7 +1,7 @@
                                         
                                         
                                     
-                        Hi  :wave: , I'm Aviya Hazan
+                        Hi   , I'm Aviya Hazan
          ___________________________________________________________________
                                    
                   A passionate Full-Stack developer from Israel
